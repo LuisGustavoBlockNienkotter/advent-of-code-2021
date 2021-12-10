@@ -27,9 +27,6 @@ def separate_commands(commands):
 
 	return forward, depth
 
-	
-
-
 input = read_file('input.txt')
 
 # #separate input in lines
